@@ -2,5 +2,9 @@
     text-align: center;
 }
 body{
-    background-color: #80d8ff;
+    background-color: #9a9a9abd;
+}
+.heading{
+    font-weight: 800;
+    font-size: 50px;
 }
